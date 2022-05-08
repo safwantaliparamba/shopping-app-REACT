@@ -60,13 +60,13 @@ const CartProvider = (props) => {
             updatedItems[existingCartItemIndex] = updatedItem;
             setCartState({
                 items: updatedItems,
-                totalAmount: updatedTotalAmount,
+                totalAmount: +updatedTotalAmount,
             });
         } else {
             const itemRemoved = cartItems.filter((item) => item.id !== id);
             setCartState({
                 items: itemRemoved,
-                totalAmount: updatedTotalAmount,
+                totalAmount: +updatedTotalAmount,
             });
         }
     };
