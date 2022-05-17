@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/meal-shopping-deploy/static/css/main.86023d72.chunk.css",
+    "main.js": "/meal-shopping-deploy/static/js/main.72f4ea8c.chunk.js",
+    "main.js.map": "/meal-shopping-deploy/static/js/main.72f4ea8c.chunk.js.map",
+    "runtime-main.js": "/meal-shopping-deploy/static/js/runtime-main.7f3aeb7b.js",
+    "runtime-main.js.map": "/meal-shopping-deploy/static/js/runtime-main.7f3aeb7b.js.map",
+    "static/js/2.42cdde59.chunk.js": "/meal-shopping-deploy/static/js/2.42cdde59.chunk.js",
+    "static/js/2.42cdde59.chunk.js.map": "/meal-shopping-deploy/static/js/2.42cdde59.chunk.js.map",
+    "index.html": "/meal-shopping-deploy/index.html",
+    "static/css/main.86023d72.chunk.css.map": "/meal-shopping-deploy/static/css/main.86023d72.chunk.css.map",
+    "static/js/2.42cdde59.chunk.js.LICENSE.txt": "/meal-shopping-deploy/static/js/2.42cdde59.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/meal-shopping-deploy/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f3aeb7b.js",
+    "static/js/2.42cdde59.chunk.js",
+    "static/css/main.86023d72.chunk.css",
+    "static/js/main.72f4ea8c.chunk.js"
+  ]
+}
